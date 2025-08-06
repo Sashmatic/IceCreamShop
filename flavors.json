@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Vanilla Dream",
+        "description": "Classic Madagascar vanilla with real vanilla bean specks",
+        "type": "classic",
+        "image": "images/vanilla.jpg"
+    },
+    {
+        "name": "Chocolate Fudge",
+        "description": "Rich chocolate with fudge swirls",
+        "type": "chocolate",
+        "image": "images/chocolate.jpg"
+    },
+    {
+        "name": "Strawberry Bliss",
+        "description": "Creamy strawberry with real fruit pieces",
+        "type": "fruity",
+        "image": "images/strawberry.jpg"
+    },
+    {
+        "name": "Mint Chocolate Chip",
+        "description": "Refreshing mint with dark chocolate chunks",
+        "type": "classic",
+        "image": "images/mint-chip.jpg"
+    },
+    {
+        "name": "Cookies & Cream",
+        "description": "Vanilla ice cream with Oreo cookie pieces",
+        "type": "classic",
+        "image": "images/cookies-cream.jpg"
+    },
+    {
+        "name": "Rocky Road",
+        "description": "Chocolate ice cream with marshmallows and almonds",
+        "type": "chocolate",
+        "image": "images/rocky-road.jpg"
+    },
+    {
+        "name": "Mango Tango",
+        "description": "Tropical mango with a hint of citrus",
+        "type": "fruity",
+        "image": "images/mango.jpg"
+    },
+    {
+        "name": "Salted Caramel",
+        "description": "Sweet caramel with a touch of sea salt",
+        "type": "special",
+        "image": "images/salted-caramel.jpg"
+    },
+    {
+        "name": "Double Chocolate",
+        "description": "Chocolate ice cream with chocolate chunks",
+        "type": "chocolate",
+        "image": "images/double-chocolate.jpg"
+    },
+    {
+        "name": "Pistachio Delight",
+        "description": "Creamy pistachio with roasted nuts",
+        "type": "special",
+        "image": "images/pistachio.jpg"
+    },
+    {
+        "name": "Raspberry Ripple",
+        "description": "Vanilla ice cream with raspberry swirl",
+        "type": "fruity",
+        "image": "images/raspberry.jpg"
+    },
+    {
+        "name": "Butter Pecan",
+        "description": "Buttery vanilla with toasted pecans",
+        "type": "classic",
+        "image": "images/butter-pecan.jpg"
+    },
+    {
+        "name": "Coffee Buzz",
+        "description": "Cold brew coffee ice cream",
+        "type": "special",
+        "image": "images/coffee.jpg"
+    },
+    {
+        "name": "Peanut Butter Cup",
+        "description": "Peanut butter ice cream with chocolate cups",
+        "type": "chocolate",
+        "image": "images/peanut-butter.jpg"
+    },
+    {
+        "name": "Lemon Berry",
+        "description": "Lemon ice cream with mixed berries",
+        "type": "fruity",
+        "image": "images/lemon-berry.jpg"
+    },
+    {
+        "name": "Cotton Candy",
+        "description": "Sweet blue cotton candy flavor",
+        "type": "special",
+        "image": "images/cotton-candy.jpg"
+    },
+    {
+        "name": "Neapolitan",
+        "description": "Classic trio of vanilla, chocolate, and strawberry",
+        "type": "classic",
+        "image": "images/neapolitan.jpg"
+    },
+    {
+        "name": "Black Cherry",
+        "description": "Vanilla ice cream with black cherry swirl",
+        "type": "fruity",
+        "image": "images/black-cherry.jpg"
+    },
+    {
+        "name": "White Chocolate",
+        "description": "Creamy white chocolate with macadamia nuts",
+        "type": "chocolate",
+        "image": "images/white-chocolate.jpg"
+    },
+    {
+        "name": "Birthday Cake",
+        "description": "Funfetti cake batter with sprinkles",
+        "type": "special",
+        "image": "images/birthday-cake.jpg"
+    },
+    {
+        "name": "Coconut Dream",
+        "description": "Creamy coconut with toasted coconut flakes",
+        "type": "special",
+        "image": "images/coconut.jpg"
+    },
+    {
+        "name": "Blueberry Cheesecake",
+        "description": "Cheesecake ice cream with blueberry swirl",
+        "type": "fruity",
+        "image": "images/blueberry-cheesecake.jpg"
+    },
+    {
+        "name": "Dark Chocolate",
+        "description": "70% dark chocolate ice cream",
+        "type": "chocolate",
+        "image": "images/dark-chocolate.jpg"
+    },
+    {
+        "name": "Green Tea Matcha",
+        "description": "Japanese matcha green tea flavor",
+        "type": "special",
+        "image": "images/matcha.jpg"
+    },
+    {
+        "name": "Banana Split",
+        "description": "Banana ice cream with chocolate and strawberry",
+        "type": "fruity",
+        "image": "images/banana-split.jpg"
+    }
+]

@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sweet Scoops Ice Cream</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <h1>Sweet Scoops</h1>
+                <p>Berry Bliss Bites</p>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#flavors">Flavors</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+                <div class="mobile-menu">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <section id="home" class="hero">
+        <div class="container">
+            <h2>Happiness is Ice cream </h2>
+            <p>Discover our 25+ premium ice cream flavors made with love</p>
+            <a href="#flavors" class="btn">Explore Flavors</a>
+        </div>
+    </section>
+
+    <section id="flavors" class="flavors-section">
+        <div class="container">
+            <h2>Our Flavors</h2>
+            <div class="flavor-filters">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="classic">Classic</button>
+                <button class="filter-btn" data-filter="fruity">Fruity</button>
+                <button class="filter-btn" data-filter="chocolate">Chocolate</button>
+                <button class="filter-btn" data-filter="special">Special</button>
+            </div>
+            <div class="flavors-grid" id="flavors-container">
+                <!-- Flavors will be loaded by JavaScript -->
+            </div>
+        </div>
+    </section>
+
+    <section id="about" class="about-section">
+        <div class="container">
+            <h2>My Story</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>Founded in 2025, Sweet Scoops is a premium ice cream using locally-sourced ingredients.</p>
+                    <p>My secret? I never compromise on quality. Every scoop is made with care and passion.</p>
+                </div>
+                <div class="about-image">
+                    <img src="https://images.squarespace-cdn.com/content/v1/52201f5ee4b068beb2a50e91/1733636833968-OJCYNDWLOY0ISGQ548H7/Wills+Batch+Ice+Cream+2024+Copyright+Mamma+Knows+West-2.jpg" alt="Our ice cream shop">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="contact-section">
+        <div class="container">
+            <h2>Visit Us</h2>
+            <div class="contact-content">
+                <div class="contact-info">
+                    <h3>Location</h3>
+                    <p>#123,Sweet Street<br>Ice Cream city,Bangalore</p>
+                    <h3>Hours</h3>
+                    <p>Monday-Friday: 12pm - 9pm<br>
+                    Saturday-Sunday: 11am - 10pm</p>
+                    <h3>Contact</h3>
+                    <p>Phone: +91-7676314038<br>
+                    Email: Hello@sweetscoops.com</p>
+                </div>
+                <div class="contact-form">
+                    <h3>Send us a message</h3>
+                    <form>
+                        <input type="text" placeholder="Your Name" required>
+                        <input type="email" placeholder="Your Email" required>
+                        <textarea placeholder="Your Message" required></textarea>
+                        <button type="submit" class="btn">Send</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <h3>Sweet Scoops</h3>
+                    <p>Making sweet memories since 2025</p>
+                </div>
+                <div class="footer-links">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#flavors">Flavors</a></li>
+                        <li><a href="#about">About</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-social">
+                    <h4>Follow Us</h4>
+                    <div class="social-icons">
+                        <a href="#"><i class="fab fa-facebook"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>&copy; 2025 Sweet Scoops. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
