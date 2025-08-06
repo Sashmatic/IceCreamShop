@@ -41,7 +41,7 @@ const flavors = [
         name: "Mint Chocolate Chip",
         description: "Refreshing mint with dark chocolate chunks",
         type: "classic",
-        image: "https://www.ocado.com/cmscontent/recipe_image_large/24313423.jpg?Y4eA"
+        image: "https://feelslikehomeblog.com/wp-content/uploads/2022/02/Mint-Chocolate-Chip-Ice-Cream-recipe-FB.png"
     },
     {
         name: "Cookies & Cream",
@@ -206,4 +206,5 @@ document.querySelector('.contact-form form').addEventListener('submit', function
     e.preventDefault();
     alert('Thank you for your message! We will get back to you soon.');
     this.reset();
+
 });
